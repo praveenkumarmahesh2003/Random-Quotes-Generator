@@ -1,0 +1,68 @@
+.body{
+  background-image: url("https://images.pexels.com/photos/2418664/pexels-photo-2418664.jpeg?auto=compress&cs=tinysrgb&w=600");
+  /* background-color: red; */
+  background-position:center;
+  background-repeat: no-repeat;
+  background-size:100%;
+  background-color:blueviolet;
+
+}
+.link ul{
+  display: flex;
+  text-decoration: none;
+  list-style: none;
+
+}
+.link ul li a{
+  margin-left: 30px;
+  color: white;
+  text-decoration: none;
+}
+.ro{
+  width: 100%;
+  height: 100%;
+   padding-top: 15rem;
+   margin-bottom: 300px;
+}
+.about
+{
+  /* margin-top: 20px; */
+  font-size: 20px;
+  text-align: center;
+  width: 80rem;
+  /* height: 30rem; */
+  padding-left: 8rem;
+  color: aliceblue;
+  /* padding-bottom: 20rem; */
+  /* padding-top: 10rem; */
+}
+.contact
+{
+  width: 40rem;
+  height: 2 0rem;
+  text-align: center;
+  /* padding-left: 20rem; */
+  margin-left: 25rem;
+  display: flex;
+  flex-direction: column;
+  /* display: contents; */
+  justify-content: center;
+  align-items: center;
+  background-color: lavenderblush;
+ 
+}
+.f{
+  /* padding-top: 20rem;
+   */
+   color:black;
+   background-color: blueviolet;
+
+}
+.f i{
+  font-size: 3rem;
+  margin-left: 10rem;
+  padding-left: 10rem;
+}
+form input{
+  margin-bottom: 20px;
+}
